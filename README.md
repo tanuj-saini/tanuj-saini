@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanujsaini97999@gmail.com) 
 
-## 🌐 DAY START:The Unspoken Code
+## 🌐 DAY START : The Unspoken Code
 When enough people use a system, even the quirks and unplanned behaviors become the norms that everyone comes to depend on.
 
 
